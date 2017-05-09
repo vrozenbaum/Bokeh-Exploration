@@ -1,2 +1,2 @@
 # Bokeh-Exploration
-A short guide visualizing data with Bokeh
+A short guide to visualizing data with Bokeh
